@@ -1,1 +1,1 @@
-link : laksjdfSS
+my first repo : https://github.com/jtd-job-training/my_first_repo
